@@ -1,4 +1,6 @@
-Nearby Locations API
+**Nearby Locations API**
+
+
 The Nearby Locations API is a Node.js application that provides endpoints to retrieve locations by category, search for nearby locations within a specified radius, and calculate trip costs between two points. It utilizes Express for routing, Sequelize as the ORM, PostgreSQL for the database, and Docker for containerization.
 Features
 * Get Locations by Category: Fetches all locations belonging to a specific category.
